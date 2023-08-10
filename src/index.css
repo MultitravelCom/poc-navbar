@@ -8,11 +8,11 @@
 .seccionLi {
   width: 130px;
   display: flex;
-  padding: 16px 14px;
+  padding-top: 1rem;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 2px;
+  /* gap: 2px; */
   flex: 1 0 0;
   align-self: stretch;
 }
@@ -30,6 +30,10 @@
   background-color: #e0e0e0;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 } 
+
+#main-menu{
+  margin-top: 1rem;
+}
 
 #main-navbar-home{
   display: none;
