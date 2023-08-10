@@ -30,3 +30,7 @@
   background-color: #e0e0e0;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 } 
+
+#main-menu > .nav{
+  display: none;
+}
